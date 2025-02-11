@@ -1,0 +1,13 @@
+{
+    "domains_file": "data/domains.json",
+    "results_file": "data/results.json",
+    "statistics_file": "data/css_features_statistics.json",
+    "css_patterns": {
+        "attr()": "attr\\(",
+        "@container": "@container",
+        ":is()": ":is\\(",
+        ":where()": ":where\\(",
+        ":has()": ":has\\("
+    },
+    "top_features_to_display": 25
+}
