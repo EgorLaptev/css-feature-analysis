@@ -7,7 +7,15 @@
         "@container": "@container",
         ":is()": ":is\\(",
         ":where()": ":where\\(",
-        ":has()": ":has\\("
+        ":has()": ":has\\(",
+        "@container-query": "@container",
+        ":focus-visible": ":focus-visible",
+        "text-wrap": "text-wrap",
+        "@layer": "@layer",
+        "color-mix()": "color-mix\\(",
+        "dynamic-vh": "\\d+dvh",
+        "dynamic-vw": "\\d+dv[wh]",
+        "nested-css": "(?<=\\{)[^{}]+\\{"
     },
     "top_features_to_display": 25
 }

@@ -1,6 +1,10 @@
 {
+    "nested-css": 496,
+    ":focus-visible": 39,
+    ":is()": 38,
     ":where()": 26,
-    ":is()": 18,
-    "@container": 10,
+    "text-wrap": 8,
+    "@container": 8,
+    "@container-query": 8,
     ":has()": 1
 }
