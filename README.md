@@ -11,6 +11,7 @@ css_analysis_project/
 ├── main.py                           # Основной скрипт для запуска проекта
 ├── data/
 │   ├── domains.json                  # Список доменов для анализа
+│   ├── domains-slim.json             # Сжатый список доменов для быстрой проверки работоспособности
 │   ├── results.json                  # Результаты сбора CSS-стилей
 │   └── css_features_statistics.json  # Статистика использования CSS-функций
 │
